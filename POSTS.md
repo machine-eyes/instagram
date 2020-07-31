@@ -26,5 +26,5 @@
 - [ ] Resnet - Definição
 - [ ] Yolo - Definição
 - [ ] SSDs - Definição
-- [ ] 
+---
 - [ ] Aplicações...
