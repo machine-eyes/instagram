@@ -78,6 +78,6 @@ Podemos ver um sistema de divisão da imagem, caso nós esforcemos  a lembrar, i
 
 Usando os sistemas de cores podemos atribuir a cada pixel desse uma cor, olhando a primeira linha e levando em consideração as cores a seguir:
 
-- Suponha que a cor branca seja o numero  "0" e exita uma escala ate "10" que é o preto absoluto
+- Suponha que a cor branca seja o numero  "0" e exista uma escala ate "10" que é o preto absoluto
 - Esta primeira linha facilmente poderia ser representada por [0, 0, 0,..., 0] repare que o numero de elemento ( números entre as virgulas )corresponde ao numero de quadrados na linha 1. Este é o conceito de uma representação por "Array".
 - Agora e se fossemos representar a imagem toda [linha 1, linha 2, linha 3, linha 4 .... , ultima linha] onde cada uma dessas linha seja um outro vetor.
