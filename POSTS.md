@@ -3,7 +3,8 @@
 - [x] Computer Vision - Conceitos básicos
 - [x] Color Space Parte 1 - Definição, RGB, CMYK
 - [x] Color Space Parte 2 - HSV, CIELAB, GRAYSCALE
-- [ ] Representação de imagens em Arrays
+- [x] Representação de imagens em Arrays - Parte 1
+- [x] Representação - Parte 2
 - [ ] Filtros parte 1 - Color, Threshold, Blur
 - [ ] Filtros parte 2 - Gradient, Sobel, Laplace
 - [ ] Histogramas
