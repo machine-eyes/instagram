@@ -5,8 +5,8 @@
 - [x] Color Space Parte 2 - HSV, CIELAB, GRAYSCALE
 - [x] Representação de imagens em Arrays - Parte 1
 - [x] Representação - Parte 2
-- [ ] Filtros parte 1 - Color, Threshold, Blur
-- [ ] Filtros parte 2 - Gradient, Sobel, Laplace
+- [x] Filtros parte 1 - Color, Threshold, Blur
+- [x] Filtros parte 2 - Gradient, Sobel, Laplace
 - [ ] Histogramas
 - [ ] Barcode
 - [ ] QRCode
